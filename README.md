@@ -3,7 +3,7 @@ my projects_5.
 
 In this project, I implemented the deployment of multi-cluster Infracture using GitOps principles.
 
-I created 3 clusters. Then, I used ARGO-CD tools with Dhub-spoke argo-cd deployment strategies to deploy my application in the spoke cluster using a centralized cluster.
+I created 3 clusters. Then, I used ARGO-CD tools with hub-spoke argo-cd deployment strategies to deploy my application in the spoke cluster using a centralized cluster.
 
 #stages involved in this project:
 
