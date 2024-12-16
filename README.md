@@ -8,11 +8,17 @@ I created 3 clusters. Then, I used ARGO-CD tools with hub-spoke argo-cd deployme
 #stages involved in this project:
 
    ##cluster creation
+   
    ##Instal  Argo-CD
+   
    ##verify login
+   
    ##ADD cluster
+   
    ##Deploying the application in the cluster 
+   
 #pre-request:
+
   1)aws-cli installed and configure
   2)eksctl-cli installed
   3)kubectl -installed
